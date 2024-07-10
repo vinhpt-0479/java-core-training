@@ -1,3 +1,4 @@
+package exceptions;
 public class ThrowException {
     public static void main(String[] args) {
         ageValid(19);

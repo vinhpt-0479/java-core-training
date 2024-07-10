@@ -1,3 +1,4 @@
+package exceptions;
 public class UncheckedExceptionExample {
     public static void main(String[] args) {
         try {
